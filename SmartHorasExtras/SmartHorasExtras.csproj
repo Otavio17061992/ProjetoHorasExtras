@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D7727783-DB64-4D6B-AC83-230825F10F7C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SmartHorasExtras</RootNamespace>
+    <AssemblyName>SmartHorasExtras</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>711bdee3</NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.2.1.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.2.1\lib\net48\FontAwesome.Sharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="INIFileParser, Version=2.5.2.0, Culture=neutral, PublicKeyToken=79af7b307b65cf3c, processorArchitecture=MSIL">
+      <HintPath>..\packages\ini-parser.2.5.2\lib\net20\INIFileParser.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.7.0.0\lib\net462\Microsoft.Extensions.Configuration.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Abstractions.7.0.0\lib\net462\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.FileExtensions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.FileExtensions.7.0.0\lib\net462\Microsoft.Extensions.Configuration.FileExtensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Ini, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Ini.7.0.0\lib\net462\Microsoft.Extensions.Configuration.Ini.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.FileProviders.Abstractions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.FileProviders.Abstractions.7.0.0\lib\net462\Microsoft.Extensions.FileProviders.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.FileProviders.Physical, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.FileProviders.Physical.7.0.0\lib\net462\Microsoft.Extensions.FileProviders.Physical.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.FileSystemGlobbing, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.FileSystemGlobbing.7.0.0\lib\net462\Microsoft.Extensions.FileSystemGlobbing.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.7.0.0\lib\net462\Microsoft.Extensions.Primitives.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.117.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.117.0\lib\net46\System.Data.SQLite.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.117.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.117.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.117.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.117.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO">
+      <HintPath>..\packages\System.IO.4.3.0\lib\net462\System.IO.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime">
+      <HintPath>..\packages\System.Runtime.4.3.0\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms">
+      <HintPath>..\packages\System.Security.Cryptography.Algorithms.4.3.1\lib\net463\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding">
+      <HintPath>..\packages\System.Security.Cryptography.Encoding.4.3.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives">
+      <HintPath>..\packages\System.Security.Cryptography.Primitives.4.3.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ValueTuple">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\ControlUcColaborador\ColaboradorUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controllers\ControlUcColaborador\ColaboradorUC.Designer.cs">
+      <DependentUpon>ColaboradorUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\Entities\Atencao.cs" />
+    <Compile Include="Controllers\Entities\ColaboradorAdd.cs" />
+    <Compile Include="Controllers\Entities\Erro.cs" />
+    <Compile Include="Controllers\Entities\Informacao.cs" />
+    <Compile Include="Controllers\Entities\Pergunta.cs" />
+    <Compile Include="Controllers\Entities\Sucesso.cs" />
+    <Compile Include="Controllers\FormMessageBox\FormColaboradorAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controllers\FormMessageBox\FormColaboradorAdd.Designer.cs">
+      <DependentUpon>FormColaboradorAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\FormMessageBox\FormMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controllers\FormMessageBox\FormMessage.Designer.cs">
+      <DependentUpon>FormMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\FormMessageBox\FormSobreApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controllers\FormMessageBox\FormSobreApp.Designer.cs">
+      <DependentUpon>FormSobreApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\IniFiles\INiFilesPadrao.cs" />
+    <Compile Include="Defines\Defines.cs" />
+    <Compile Include="Views\TelaCadastrarHorasExtras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\TelaCadastrarHorasExtras.Designer.cs">
+      <DependentUpon>TelaCadastrarHorasExtras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TelaColaboradores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\TelaColaboradores.Designer.cs">
+      <DependentUpon>TelaColaboradores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TelaConfiguracoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\TelaConfiguracoes.Designer.cs">
+      <DependentUpon>TelaConfiguracoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TelaListaHorasExtras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\TelaListaHorasExtras.Designer.cs">
+      <DependentUpon>TelaListaHorasExtras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TelaLoginUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\TelaLoginUsuario.Designer.cs">
+      <DependentUpon>TelaLoginUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\TelaPrincipal.Designer.cs">
+      <DependentUpon>TelaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\TelaSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\TelaSplashScreen.Designer.cs">
+      <DependentUpon>TelaSplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TelaCadastroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\TelaCadastroUsuario.Designer.cs">
+      <DependentUpon>TelaCadastroUsuario.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Controllers\ControlUcColaborador\ColaboradorUC.resx">
+      <DependentUpon>ColaboradorUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\FormMessageBox\FormColaboradorAdd.resx">
+      <DependentUpon>FormColaboradorAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\FormMessageBox\FormMessage.resx">
+      <DependentUpon>FormMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\FormMessageBox\FormSobreApp.resx">
+      <DependentUpon>FormSobreApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Views\TelaCadastrarHorasExtras.resx">
+      <DependentUpon>TelaCadastrarHorasExtras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TelaColaboradores.resx">
+      <DependentUpon>TelaColaboradores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TelaConfiguracoes.resx">
+      <DependentUpon>TelaConfiguracoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TelaListaHorasExtras.resx">
+      <DependentUpon>TelaListaHorasExtras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TelaLoginUsuario.resx">
+      <DependentUpon>TelaLoginUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TelaPrincipal.resx">
+      <DependentUpon>TelaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TelaSplashScreen.resx">
+      <DependentUpon>TelaSplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TelaCadastroUsuario.resx">
+      <DependentUpon>TelaCadastroUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SmartHorasExtras_DB\SmartHorasExtras_DB.csproj">
+      <Project>{e1796983-ec10-48c7-8998-5bd28f1ff10d}</Project>
+      <Name>SmartHorasExtras_DB</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atencao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\erro1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fechar_32px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hamburger_32px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homem-usuario %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homem-usuario %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homem-usuario %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homem-usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_32px_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_32px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\informacao1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_gestal_b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_gestal_b1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_gestal_b2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar_32px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navHunbur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pergunta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quadrado_interrogacao_24px_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quadrado_interrogacao_24px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurar_32px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair_32px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta-esquerda %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta-esquerda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sinal-de-mais.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sucesso1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GESTAL_20_Anos_site.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_slide3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-user-profile-scalable-vector-graphi-transparent-icon-profile-5ab0302c1dc4c4.5745283115214961081219.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-user-profile-male-icon-5b391cdda15aa6.1833440415304695976609.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-user-profile-woman-avatar-rent-5ad9e128646c99.2380427315242283924114.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-user-profile-woman-avatar-rent-5ad9e128646c99.23804273152422839241141.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuaruis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horas_extras_full.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horas_extras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuarios_32px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chave_32px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\configuracao_32px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario_32px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario_64px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diretorio_32px_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salvar_32px_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario_64px_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hora_extra_32px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta_esquerda_32px_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chave_32px_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chave_32px_w1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\configuracao_32px_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\configuracao_32px_w1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diretorio_32px_g1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diretorio_32px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fechar_32px_w1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hamburger_32px_w1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hora_extra_32px_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hora_extra_32px_w1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horas_extras1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horas_extras_full1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_32px_g1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_32px_w1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_gestal_b3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar_32px_w1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurar_32px_w1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair_32px_w1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salvar_32px_g1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salvar_32px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta_esquerda_32px_g1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta_esquerda_32px_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario_32px_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario_32px_w1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario_64px_g1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario_64px_w1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuarios_32px_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuarios_32px_w1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.117.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.117.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.117.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.117.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

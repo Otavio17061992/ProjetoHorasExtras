@@ -1,0 +1,472 @@
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe.config
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.csprojResolveAssemblyReference.cache
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.ControlUcColaborador.ColaboradorUC.resources
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormColaboradorAdd.resources
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormMessage.resources
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.Properties.Resources.resources
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastrarHorasExtras.resources
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaColaboradores.resources
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaConfiguracoes.resources
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaListaHorasExtras.resources
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.TelaPrincipal.resources
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSobre.resources
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSplashScreen.resources
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.GenerateResource.Cache
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\bin\Debug\SmartHorasExtras.pdb
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\bin\Debug\EntityFramework.dll
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.dll
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\bin\Debug\FontAwesome.Sharp.dll
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\bin\Debug\MaterialSkin.dll
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\bin\Debug\System.Data.SQLite.dll
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\bin\Debug\System.Data.SQLite.EF6.dll
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\bin\Debug\System.Data.SQLite.Linq.dll
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\bin\Debug\EntityFramework.xml
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.xml
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\bin\Debug\System.Data.SQLite.xml
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.exe
+C:\GESTAL\Projetos\SmartHorasExtras\SmartHorasExtras\obj\Debug\SmartHorasExtras.pdb
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe.config
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.exe
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.pdb
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\bin\Debug\SmartHorasExtras.pdb
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\bin\Debug\EntityFramework.dll
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.dll
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\bin\Debug\FontAwesome.Sharp.dll
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\bin\Debug\MaterialSkin.dll
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\bin\Debug\System.Data.SQLite.dll
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\bin\Debug\System.Data.SQLite.EF6.dll
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\bin\Debug\System.Data.SQLite.Linq.dll
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\bin\Debug\EntityFramework.xml
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.xml
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\bin\Debug\System.Data.SQLite.xml
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.csprojResolveAssemblyReference.cache
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.ControlUcColaborador.ColaboradorUC.resources
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormColaboradorAdd.resources
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormMessage.resources
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Properties.Resources.resources
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastrarHorasExtras.resources
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaColaboradores.resources
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaConfiguracoes.resources
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaListaHorasExtras.resources
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.TelaPrincipal.resources
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSobre.resources
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSplashScreen.resources
+C:\GESTAL\Projetos\SmartHorasExtras - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.GenerateResource.Cache
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe.config
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.exe
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.pdb
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\SmartHorasExtras.pdb
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\EntityFramework.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\FontAwesome.Sharp.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\MaterialSkin.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\System.Data.SQLite.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\System.Data.SQLite.EF6.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\System.Data.SQLite.Linq.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.pdb
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\EntityFramework.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\bin\Debug\System.Data.SQLite.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.csprojResolveAssemblyReference.cache
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.ControlUcColaborador.ColaboradorUC.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormColaboradorAdd.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormMessage.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.Properties.Resources.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastrarHorasExtras.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaColaboradores.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaConfiguracoes.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaListaHorasExtras.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.TelaPrincipal.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSobre.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSplashScreen.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.GenerateResource.Cache
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe.config
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.exe
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.pdb
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\SmartHorasExtras.pdb
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\EntityFramework.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\FontAwesome.Sharp.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\MaterialSkin.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\System.Data.SQLite.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\System.Data.SQLite.EF6.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\System.Data.SQLite.Linq.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.pdb
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\EntityFramework.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\bin\Debug\System.Data.SQLite.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.csprojResolveAssemblyReference.cache
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.ControlUcColaborador.ColaboradorUC.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormColaboradorAdd.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormMessage.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Properties.Resources.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastrarHorasExtras.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaColaboradores.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaConfiguracoes.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaListaHorasExtras.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.TelaPrincipal.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSobre.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSplashScreen.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.GenerateResource.Cache
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe.config
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.exe
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.pdb
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\SmartHorasExtras.pdb
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\EntityFramework.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\FontAwesome.Sharp.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\MaterialSkin.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\System.Data.SQLite.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\System.Data.SQLite.EF6.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\System.Data.SQLite.Linq.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.pdb
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\EntityFramework.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\bin\Debug\System.Data.SQLite.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.csprojResolveAssemblyReference.cache
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.ControlUcColaborador.ColaboradorUC.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormColaboradorAdd.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormMessage.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.Properties.Resources.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastrarHorasExtras.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaColaboradores.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaConfiguracoes.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaListaHorasExtras.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.TelaPrincipal.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSobre.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSplashScreen.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.GenerateResource.Cache
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia (2)\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaLoginUsuario.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaLoginUsuario.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaUsuario.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - Copia\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormSobreApp.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe.config
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.exe
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.pdb
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\SmartHorasExtras.pdb
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\EntityFramework.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\FontAwesome.Sharp.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\MaterialSkin.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Data.SQLite.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Data.SQLite.EF6.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Data.SQLite.Linq.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.pdb
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\EntityFramework.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Data.SQLite.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.csprojResolveAssemblyReference.cache
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.ControlUcColaborador.ColaboradorUC.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormColaboradorAdd.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormMessage.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormSobreApp.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.Properties.Resources.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastrarHorasExtras.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaColaboradores.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaConfiguracoes.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaListaHorasExtras.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaLoginUsuario.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.TelaPrincipal.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSplashScreen.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.GenerateResource.Cache
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastroUsuario.resources
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\INIFileParser.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\INIFileParser.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Ini.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Buffers.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.IO.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Memory.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Numerics.Vectors.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Runtime.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.ValueTuple.dll
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Ini.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Buffers.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Memory.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Numerics.Vectors.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GESTAL\Projetos\SmartHorasExtras_VersaoTest - versao Atual\SmartHorasExtras\bin\Debug\System.ValueTuple.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe.config
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\SmartHorasExtras.pdb
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\EntityFramework.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\FontAwesome.Sharp.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\INIFileParser.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\MaterialSkin.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Ini.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Buffers.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Data.SQLite.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Memory.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Numerics.Vectors.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.ValueTuple.dll
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.pdb
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.dll.config
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\EntityFramework.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\INIFileParser.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Ini.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Buffers.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Data.SQLite.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Memory.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Numerics.Vectors.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.ValueTuple.xml
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.AssemblyReference.cache
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.ControlUcColaborador.ColaboradorUC.resources
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormColaboradorAdd.resources
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormMessage.resources
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormSobreApp.resources
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Properties.Resources.resources
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastrarHorasExtras.resources
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaColaboradores.resources
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaConfiguracoes.resources
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaListaHorasExtras.resources
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaLoginUsuario.resources
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.TelaPrincipal.resources
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSplashScreen.resources
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastroUsuario.resources
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.GenerateResource.cache
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.CoreCompileInputs.cache
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.CopyComplete
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.exe
+C:\Projetos\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.pdb
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe.config
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\SmartHorasExtras.pdb
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\EntityFramework.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\FontAwesome.Sharp.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\INIFileParser.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\MaterialSkin.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Ini.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Buffers.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Data.SQLite.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Data.SQLite.EF6.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Data.SQLite.Linq.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Memory.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Numerics.Vectors.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.ValueTuple.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.pdb
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.dll.config
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\EntityFramework.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\INIFileParser.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Ini.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Buffers.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Data.SQLite.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Memory.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Numerics.Vectors.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\bin\Debug\System.ValueTuple.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.AssemblyReference.cache
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.SuggestedBindingRedirects.cache
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.ControlUcColaborador.ColaboradorUC.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormColaboradorAdd.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormMessage.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormSobreApp.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Properties.Resources.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastrarHorasExtras.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaColaboradores.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaConfiguracoes.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaListaHorasExtras.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaLoginUsuario.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.TelaPrincipal.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSplashScreen.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastroUsuario.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.GenerateResource.cache
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.CoreCompileInputs.cache
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.CopyComplete
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.exe
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.pdb
+C:\SmartHorasExtras_VersaoTest - versao Atual2\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaColaboradoresTabela.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.AssemblyReference.cache
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.SuggestedBindingRedirects.cache
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.ControlUcColaborador.ColaboradorUC.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormColaboradorAdd.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormMessage.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormSobreApp.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Properties.Resources.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastrarHorasExtras.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaColaboradores.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaConfiguracoes.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaListaHorasExtras.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaLoginUsuario.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.TelaPrincipal.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSplashScreen.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastroUsuario.resources
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.GenerateResource.cache
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.CoreCompileInputs.cache
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.exe
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.pdb
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe.config
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\SmartHorasExtras.pdb
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\EntityFramework.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\FontAwesome.Sharp.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\INIFileParser.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\MaterialSkin.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Ini.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Buffers.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Data.SQLite.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Data.SQLite.EF6.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Data.SQLite.Linq.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Memory.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Numerics.Vectors.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.ValueTuple.dll
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.pdb
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.dll.config
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\EntityFramework.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\INIFileParser.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Ini.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Buffers.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Data.SQLite.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Memory.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Numerics.Vectors.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.ValueTuple.xml
+C:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.CopyComplete
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe.config
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\SmartHorasExtras.exe
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\SmartHorasExtras.pdb
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\EntityFramework.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\FontAwesome.Sharp.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\INIFileParser.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\MaterialSkin.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Ini.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Buffers.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Data.SQLite.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Data.SQLite.EF6.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Data.SQLite.Linq.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Memory.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Numerics.Vectors.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.ValueTuple.dll
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.pdb
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\SmartHorasExtras_DB.dll.config
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\EntityFramework.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\EntityFramework.SqlServer.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\INIFileParser.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Configuration.Ini.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Buffers.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Data.SQLite.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Memory.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Numerics.Vectors.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\bin\Debug\System.ValueTuple.xml
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.AssemblyReference.cache
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.SuggestedBindingRedirects.cache
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.ControlUcColaborador.ColaboradorUC.resources
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormColaboradorAdd.resources
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormMessage.resources
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Controllers.FormMessageBox.FormSobreApp.resources
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Properties.Resources.resources
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastrarHorasExtras.resources
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaColaboradores.resources
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaConfiguracoes.resources
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaListaHorasExtras.resources
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaLoginUsuario.resources
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.TelaPrincipal.resources
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaSplashScreen.resources
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.Views.TelaCadastroUsuario.resources
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.GenerateResource.cache
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.CoreCompileInputs.cache
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.csproj.CopyComplete
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.exe
+D:\SmartHorasExtras_VersaoTest - versao Atual3D\SmartHorasExtras\obj\Debug\SmartHorasExtras.pdb
