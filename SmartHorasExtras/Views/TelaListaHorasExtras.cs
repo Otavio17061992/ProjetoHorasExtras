@@ -96,29 +96,7 @@ namespace SmartHorasExtras.Views
             // Soma a quantidade de horas extras no listview
             SomaQuantidadeHorasExtras(listvewHorasExtras);
 
-            tela_principal.MudaVisibilidadeBtnImprimir(true);
-            tela_principal.btnimprimirClicado += new EventHandler(PrintButton);
-            // Cria um novo documento de impressão
-            printDocument = new PrintDocument();
-            printDocument.PrintPage += new PrintPageEventHandler(PrintDocument_PrintPage);
-        }
 
-        private void PrintButton(object sender, EventArgs e)
-        {
-            // Captura a tela
-            Bitmap printScreen = new Bitmap(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height);
-            Graphics graphics = Graphics.FromImage(printScreen as Image);
-            graphics.CopyFromScreen(0, 0, 0, 0, printScreen.Size);
-
-            // Adiciona a imagem capturada ao documento de impressão
-            printDocument.DefaultPageSettings.Landscape = true;
-            printDocument.DefaultPageSettings.PrinterSettings.DefaultPageSettings.Landscape = true;
-            printDocument.PrintController = new StandardPrintController();
-            printDocument.Print();
-
-            // Abre outra tela com a lista de impressoras disponíveis
-            PrintDialog printDialog = new PrintDialog();
-            printDialog.ShowDialog();
         }
 
 
@@ -130,8 +108,6 @@ namespace SmartHorasExtras.Views
 
             // Desenha a imagem do formulário na página de impressão
             e.Graphics.DrawImage(formImage, 0, 0);
-
-            
         }
 
         private void TelaAddHorasExtras_Load(object sender, EventArgs e)
@@ -910,6 +886,27 @@ namespace SmartHorasExtras.Views
                 horasExtras.p2_entrada = "00:00";
                 horasExtras.p2_saida = "00:00";
             }
+        }
+
+        private void btnImprimir_Click(object sender, EventArgs e)
+        {
+            printDocument = new PrintDocument();
+            printDocument.PrintPage += new PrintPageEventHandler(PrintDocument_PrintPage);
+
+            // Captura a tela
+            Bitmap printScreen = new Bitmap(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height);
+            Graphics graphics = Graphics.FromImage(printScreen as Image);
+            graphics.CopyFromScreen(0, 0, 0, 0, printScreen.Size);
+
+            // Adiciona a imagem capturada ao documento de impressão
+            printDocument.DefaultPageSettings.Landscape = true;
+            printDocument.DefaultPageSettings.PrinterSettings.DefaultPageSettings.Landscape = true;
+            printDocument.PrintController = new StandardPrintController();
+            printDocument.Print();
+
+            // Abre outra tela com a lista de impressoras disponíveis
+            PrintDialog printDialog = new PrintDialog();
+            printDialog.ShowDialog();
         }
 
         // Metodo que carrega o intervalo de do banco de dados

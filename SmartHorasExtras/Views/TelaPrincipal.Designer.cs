@@ -42,7 +42,6 @@
             this.btnSair = new System.Windows.Forms.Button();
             this.btnRestaurar = new System.Windows.Forms.Button();
             this.panelMenu = new System.Windows.Forms.Panel();
-            this.btnImprimePage = new System.Windows.Forms.Button();
             this.btnConfiguracoes = new System.Windows.Forms.Button();
             this.btnLogin = new System.Windows.Forms.Button();
             this.BtnHorasExtras = new System.Windows.Forms.Button();
@@ -219,7 +218,6 @@
             // panelMenu
             // 
             this.panelMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.panelMenu.Controls.Add(this.btnImprimePage);
             this.panelMenu.Controls.Add(this.btnConfiguracoes);
             this.panelMenu.Controls.Add(this.btnLogin);
             this.panelMenu.Controls.Add(this.BtnHorasExtras);
@@ -233,29 +231,6 @@
             this.panelMenu.Padding = new System.Windows.Forms.Padding(0, 0, 0, 15);
             this.panelMenu.Size = new System.Drawing.Size(230, 768);
             this.panelMenu.TabIndex = 6;
-            // 
-            // btnImprimePage
-            // 
-            this.btnImprimePage.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnImprimePage.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.btnImprimePage.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnImprimePage.FlatAppearance.BorderSize = 0;
-            this.btnImprimePage.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnImprimePage.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnImprimePage.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
-            this.btnImprimePage.Image = global::SmartHorasExtras.Properties.Resources.quadrado_interrogacao_24px_w;
-            this.btnImprimePage.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnImprimePage.Location = new System.Drawing.Point(0, 292);
-            this.btnImprimePage.Name = "btnImprimePage";
-            this.btnImprimePage.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
-            this.btnImprimePage.Size = new System.Drawing.Size(230, 58);
-            this.btnImprimePage.TabIndex = 21;
-            this.btnImprimePage.Tag = "Imprimir";
-            this.btnImprimePage.Text = "Imprimir";
-            this.btnImprimePage.UseCompatibleTextRendering = true;
-            this.btnImprimePage.UseVisualStyleBackColor = true;
-            this.btnImprimePage.Visible = false;
-            this.btnImprimePage.Click += new System.EventHandler(this.btnImprimePage_Click);
             // 
             // btnConfiguracoes
             // 
@@ -410,7 +385,6 @@
         private System.Windows.Forms.Button BtnHorasExtras;
         private System.Windows.Forms.Button btnLogin;
         private System.Windows.Forms.Button btnConfiguracoes;
-        private System.Windows.Forms.Button btnImprimePage;
     }
 }
 

@@ -197,10 +197,6 @@ namespace SmartHorasExtras
             }
         }
 
-        public void MudaVisibilidadeBtnImprimir(bool visibility)
-        {
-            btnImprimePage.Visible = visibility;
-        }
 
         // armazena nome do usuario
         public void ArmazenaNomeUsuario(string nome)
@@ -262,7 +258,6 @@ namespace SmartHorasExtras
                     BtnHorasExtras.ForeColor = Color.FromArgb(64, 64, 64);
                     BtnHorasExtras.BackColor = Color.FromArgb(240, 240, 240);
                     BtnHorasExtras.Image = SmartHorasExtras.Properties.Resources.hora_extra_32px_g;
-                    btnImprimePage.Visible = true;
 
                 }
                 ArmazenaNomeUsuario(btnUsuarios.Text);
@@ -833,13 +828,5 @@ namespace SmartHorasExtras
 
         [DllImport("user32.DLL", EntryPoint = "SendMessage")]
         private extern static void SendMessage(System.IntPtr hwnd, int wMsg, int wParam, int Iparam);
-
-        private void btnImprimePage_Click(object sender, EventArgs e)
-        {
-            if (btnImprimePage != null)
-            {
-                btnimprimirClicado(sender, e);
-            }
-        }
     }
 }

@@ -67,6 +67,7 @@
             this.text2Periodo = new System.Windows.Forms.TextBox();
             this.labelMes = new System.Windows.Forms.Label();
             this.labelAno = new System.Windows.Forms.Label();
+            this.btnImprimir = new System.Windows.Forms.Button();
             this.panelTrasnparente = new System.Windows.Forms.Panel();
             this.painelHorasExtras.SuspendLayout();
             this.groupBoxDiasSemana.SuspendLayout();
@@ -76,6 +77,7 @@
             // painelHorasExtras
             // 
             this.painelHorasExtras.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            this.painelHorasExtras.Controls.Add(this.btnImprimir);
             this.painelHorasExtras.Controls.Add(this.labelNomeColab);
             this.painelHorasExtras.Controls.Add(this.textBoxNomeColab);
             this.painelHorasExtras.Controls.Add(this.listvewHorasExtras);
@@ -480,13 +482,24 @@
             this.labelAno.TabIndex = 66;
             this.labelAno.Text = "Ano:";
             // 
+            // btnImprimir
+            // 
+            this.btnImprimir.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnImprimir.Location = new System.Drawing.Point(655, 90);
+            this.btnImprimir.Name = "btnImprimir";
+            this.btnImprimir.Size = new System.Drawing.Size(109, 40);
+            this.btnImprimir.TabIndex = 77;
+            this.btnImprimir.Text = "Imprimir";
+            this.btnImprimir.UseVisualStyleBackColor = true;
+            this.btnImprimir.Click += new System.EventHandler(this.btnImprimir_Click);
+            // 
             // panelTrasnparente
             // 
             this.panelTrasnparente.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelTrasnparente.Location = new System.Drawing.Point(0, 0);
             this.panelTrasnparente.Name = "panelTrasnparente";
             this.panelTrasnparente.Size = new System.Drawing.Size(780, 730);
-            this.panelTrasnparente.TabIndex = 77;
+            this.panelTrasnparente.TabIndex = 78;
             this.panelTrasnparente.Visible = false;
             // 
             // TelaListaHorasExtras
@@ -549,8 +562,9 @@
         private System.Windows.Forms.TextBox text2Periodo;
         private System.Windows.Forms.Label labelMes;
         private System.Windows.Forms.Label labelAno;
-        private System.Windows.Forms.Panel panelTrasnparente;
         private System.Windows.Forms.Label labelNomeColab;
         private System.Windows.Forms.TextBox textBoxNomeColab;
+        private System.Windows.Forms.Button btnImprimir;
+        private System.Windows.Forms.Panel panelTrasnparente;
     }
 }
